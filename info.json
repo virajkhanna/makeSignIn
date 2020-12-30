@@ -1,0 +1,9 @@
+{
+  "author":"Viraj Khanna",
+  "latest_version":"v1.0",
+  "package-name":"MakeSignIn",
+  "description":"A Simple, Sign in library for python to create a login place for your python project.",
+  "long_description":"readme.md",
+  "documentation":"readme.md",
+  "source":"https://github.com/virajkhanna/python-sign-in-lib"
+}
