@@ -1,1 +1,1 @@
-import .me
+from .me import *
