@@ -11,3 +11,9 @@ To sign in, import the library and enter the following python code
 makesignin.sign_in(user's_username, user's_password)
 ```
 Change user's_username to the username the user should have and user's_password to the password the user should have. Then a sign in screen will be shown in your python project.
+
+## Get Users login username
+To get users login username, run the following command.
+```python
+makesignin.get_username()
+```
