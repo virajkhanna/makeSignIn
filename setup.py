@@ -13,6 +13,9 @@ setup(
     packages = __packages__,
     author = __author__,
     author_email = __author_email__,
-    install_requires=win10toast,
+    install_requires=[
+        "win10toast",
+        "getpass",
+    ],
     classifiers = __classifiers__,
 )
